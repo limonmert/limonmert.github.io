@@ -1,16 +1,15 @@
 .iampic{
-    text-align: center;
+    text-align:  center;
     
     font-style: italic;
     color:white;
     
 }
-.iamtext{
-    text-align: center;
+.border{
+    border: 25px inset #E7CBCB;
     
-    font-style: italic;
-    color:white;
 }
+
 html{
-    background-color: black;
+    background-color: #643843;
 }
